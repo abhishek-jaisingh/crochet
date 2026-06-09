@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g id="yarnlogo">
+    <!-- yarn ball -->
+    <circle cx="30" cy="34" r="22" fill="#e8a0b4"/>
+    <path d="M11 28 a22 22 0 0 1 36 -4 M9 38 a22 22 0 0 0 41 -2 M22 14 a22 22 0 0 0 -4 39 M40 16 a22 22 0 0 1 4 36"
+          stroke="#d2829a" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <!-- trailing yarn thread -->
+    <path d="M30 56 q14 4 24 -2" stroke="#d2829a" stroke-width="2.6" fill="none"
+          stroke-linecap="round" stroke-dasharray="1 5"/>
+    <!-- crochet hook -->
+    <rect x="36" y="8" width="26" height="5" rx="2.5" transform="rotate(38 36 8)" fill="#b08968"/>
+    <path d="M56 24 q5 3 1 8" stroke="#b08968" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <!-- little heart -->
+    <path d="M30 28 c-3 -5 -10 -3 -10 2.5 c0 4.5 5.5 7.5 10 11 c4.5 -3.5 10 -6.5 10 -11 c0 -5.5 -7 -7.5 -10 -2.5z" fill="#e76480"/>
+  </g>
+</svg>
